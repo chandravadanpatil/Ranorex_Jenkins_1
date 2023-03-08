@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="Ranorex_Jenkins_1Repository"
+id="b720639c-66b2-4ce7-b6e9-5404cf86c561">
+  <codegen
+  classname="Ranorex_Jenkins_1Repository"
+  namespace="Ranorex_Jenkins_1"/>
+  <rootfolder
+  name="Root"
+  id="ea2224a7-66fe-49ef-9998-56166d48aea9"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

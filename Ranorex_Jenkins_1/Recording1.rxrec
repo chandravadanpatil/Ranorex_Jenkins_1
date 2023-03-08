@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="09df1125-2de1-4e1e-a4e8-450c47ebbf60"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="Ranorex_Jenkins_1">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="b720639c-66b2-4ce7-b6e9-5404cf86c561"
+	name="Ranorex_Jenkins_1Repository"
+	relativepath="Ranorex_Jenkins_1Repository.rxrep">
+		<codegen
+		classname="Ranorex_Jenkins_1Repository"
+		namespace="Ranorex_Jenkins_1">
+		</codegen>
+		<rootfolder
+		id="ea2224a7-66fe-49ef-9998-56166d48aea9"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
